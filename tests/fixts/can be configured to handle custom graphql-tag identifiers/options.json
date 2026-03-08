@@ -1,0 +1,4 @@
+{
+  "gqlTagIdentifiers": ["custom"],
+  "importSources": ["my-lib"]
+}
