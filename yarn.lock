@@ -2701,7 +2701,7 @@ __metadata:
   peerDependencies:
     graphql: ^16.0.0
     graphql-tag: ^2.12.0
-    vite: ^7.0.0
+    vite: ">= 7"
   peerDependenciesMeta:
     vite:
       optional: true
