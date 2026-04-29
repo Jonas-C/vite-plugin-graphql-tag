@@ -1,6 +1,12 @@
 {
   "name": "vite-plugin-graphql-tag",
   "version": "0.1.1",
+  "keywords": [
+    "graphql",
+    "graphql-tag",
+    "rolldown-plugin",
+    "vite-plugin"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
